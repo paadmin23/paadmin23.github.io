@@ -1,0 +1,2 @@
+# 国内用户如果速度较慢，可以把github地址替换为：https://gitee.com/mirrors/ayer.git
+git clone https://gitee.com/mirrors/ayer.git themes/ayer
